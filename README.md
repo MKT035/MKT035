@@ -23,7 +23,7 @@ I have considerable knowledge in the Data Analytics field. And I am enthralled b
 ### Here are some important link/information about me -
 
 <!--* Resume - [Mayank Kumar Resume 2023](https://sunny.techglobule.com/wp-content/uploads/2023/01/Resume-Swapnil-Jha-23.01.07.pdf)-->
-* Email - mayank.kumar(at)student.uni-tuebingen.de; mayank132.kumar(at)gmail.com
+* Email - [mayank.kumar(at)student.uni-tuebingen.de](mailto:); mayank132.kumar(at)gmail.com
 * Linkedin - [mayankkumar7](https://www.linkedin.com/in/mayankkumar7/)
 * Telegram - https://t.me/Katsuragi_Kun (This direct chat link might not work in a few countries.)
 
