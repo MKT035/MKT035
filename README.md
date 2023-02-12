@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <!--
-**swapniljha001/swapniljha001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MKT4869/MKT4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,24 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am Swapnil Jha, a 23-year-old, Engineering graduate from Maharaja Surajmal Institute of Technology, New Delhi, India.
+I am Mayank Kumar, a 23-year-old, Computational Linguist at University of Tuebingen.
 
-I have considerable knowledge in the Decision Analytics field. And I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python and SQL and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of German as well.
+I have considerable knowledge in the Data Analytics field. And I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python, SQL and R and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of German as well.
 
 ### Here are some important link/information about me -
 
-* Resume - [Swapnil Jha Resume 2023](https://sunny.techglobule.com/wp-content/uploads/2023/01/Resume-Swapnil-Jha-23.01.07.pdf)
-* PyPI - https://pypi.org/user/swapniljha/
-* EMail - swapniljha001(at)gmail.com; swapniljha(at)hotmail.com
-* Telegram - https://t.me/sunnyassassin (This direct chat link might not work in a few countries.)
+<!--* Resume - [Mayank Kumar Resume 2023](https://sunny.techglobule.com/wp-content/uploads/2023/01/Resume-Swapnil-Jha-23.01.07.pdf)-->
+* EMail - mayank.kumar(at)student.uni-tuebingen.de; mayank132.kumar(at)gmail.com
+* Telegram - https://t.me/Katsuragi_Kun (This direct chat link might not work in a few countries.)
 
 ### Fun Facts -
-* I am a professional Decision Analytics Associate.
+* I am a Master's student at Eberhard karls University of Tuebingen.
 * I like playing Chess.
 * Ich lerne gerade Deutsch.
 
 ### Regards,
- Swapnil Jha
+ Mayank Kumar
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MKT035&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
