@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am Mayank Kumar, a 23-year-old, Computational Linguistics student at the University of Tuebingen.
+I am Mayank Kumar, a 24-year-old, Computational Linguistics student at the University of Tuebingen.
 
 I have considerable knowledge in the Data Analytics field, and I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python, SQL and R and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and I am learning a bit of German as well.
 
