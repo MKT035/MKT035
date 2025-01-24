@@ -1,9 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am Mayank Kumar, a 24-year-old, Computational Linguistics student at the University of Tuebingen.
-
-I have considerable knowledge in the Data Analytics field, and I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python, SQL and R and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and I am learning a bit of German as well.
+I am Mayank Kumar, a Risk Analyst with expertise in LLM development, AI-driven tools, and data analytics. Proficient in Python, Power BI, and Palantir Foundry, with hands-on experience in creating GPT-based solutions for risk assessment and business automation. Skilled in optimizing processes and delivering impactful solutions.
 
 ### Here are some important link/information about me -
 
@@ -13,7 +11,6 @@ I have considerable knowledge in the Data Analytics field, and I am enthralled b
 * Telegram - https://t.me/Katsuragi_Kun (This direct chat link might not work in a few countries.)
 
 ### Fun Facts -
-* I am a Master's student at Eberhard karls University of Tuebingen.
 * I like playing Chess.
 * Ich lerne gerade Deutsch.
 
