@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am Mayank Kumar, a Risk Analyst with expertise in LLM development, AI-driven tools, and data analytics. Proficient in Python, Power BI, and Palantir Foundry, with hands-on experience in creating GPT-based solutions for risk assessment and business automation. Skilled in optimizing processes and delivering impactful solutions.
+I am Mayank Kumar, an Analyst with expertise in LLM development, AI-driven tools, and data analytics. Proficient in Python, Power BI, and Palantir Foundry, with hands-on experience in creating GPT-based solutions for risk assessment and business automation. Skilled in optimizing processes and delivering impactful solutions.
 
 ### Here are some important link/information about me -
 
