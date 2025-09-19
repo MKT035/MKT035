@@ -5,6 +5,7 @@ I am Mayank Kumar, an Analyst with expertise in LLM development, AI-driven tools
 
 ### Here are some important link/information about me -
 
+* Resume - [Mayank Resume](https://github.com/MKT035/MKT035/blob/main/Mayank_Resume_IN_A.pdf)
 * Email - mayank132.kumar(at)gmail.com
 * Linkedin - [mayankkumar7](https://www.linkedin.com/in/mayankkumar7/)
 * Telegram - https://t.me/Katsuragi_Kun (This direct chat link might not work in a few countries.)
